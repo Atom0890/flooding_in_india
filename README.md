@@ -1,2 +1,2 @@
-# flooding_in_india
+# Flooding in India
 Predictive model for flooding in India
